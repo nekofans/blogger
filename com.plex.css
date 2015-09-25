@@ -1,0 +1,227 @@
+.infonime {
+    background: rgb(0, 0, 0);
+    color: #fff;
+    min-height: 300px;
+    overflow: hidden;
+    position: relative;
+    width: 1120px;
+}
+
+h3.post-title.entry-title {
+    background-color: #fff;
+    width: 1120px;
+}
+.contentinfonime {
+    margin-right: 200px;
+    padding: 20px;
+    padding-left: 40px;
+    position: relative;
+    overflow: hidden;
+    font-size: 13px;
+}
+
+.bgnime {
+    background: url(http://anilist.co/img/dir/anime/reg/21277-8tajqfD3pDwS.jpg);
+    background-size: cover;
+    background-position: 50% 35%;
+    background-repeat: no-repeat no-repeat;
+    height: 110%;
+    width: 100%;
+    -webkit-filter: blur(8px);
+    -moz-filter: blur(8px);
+    -o-filter: blur(8px);
+    -ms-filter: blur(8px);
+    filter: blur(8px);
+    overflow: hidden;
+    opacity: 0.2;
+    position: absolute;
+}
+
+.post-outer {
+    background-color: #F2F2F2;
+}
+
+.infoanimekun p {
+    margin: 0;
+    width: 100px;
+    overflow: hidden;
+    float: left;
+}
+
+.infoanimekun h3 {
+    font-size: 1.3em;
+    padding-bottom: 10px;
+    text-shadow: 0px 1px 1px #000;
+}
+.infoanimekun > div {
+    overflow: hidden;
+}
+
+.gambarnime {
+    border-radius: 3px;
+    float: left;
+    max-width: 200px;
+    width: 200px;
+    position: relative;
+    margin-right: 20px;
+}
+.post-body {
+    padding: 0px;
+}
+.sidebar {
+    position: absolute;
+    right: 0;
+    top: 395px;
+}
+.contentmaster {
+    padding: 10px;
+    background-color: #fff;
+    margin-top: 10px;
+    color: #666;
+}
+.contentmaster h3 {
+    color: #333230;
+    font-weight: 100;
+    font-size: 14pt;
+    border-left: 3px solid #2786ae;
+    padding-left: 10px;
+    padding: 5px 10px;
+    margin-bottom: 15px;
+}
+
+.Episoder {
+    overflow: hidden;
+    margin-top: 15px;
+}
+.namepisode {
+    padding: 20px;
+    float: left;
+    width: 430px;
+    background-color: #FBFBFB;
+    font-size: 12pt;
+    font-weight: 600;
+}
+
+.thumnailjkt69 {
+    display:none;
+}
+.uploadepisode {
+    padding: 20px;
+    float: left;
+    width: 100px;
+    font-size: 12pt;
+    background-color: #FBFBFB;
+    font-weight: 600;
+}
+.downloadepide {
+    padding: 20px;
+    float: left;
+    width: 100px;
+    background-color: #FBFBFB;
+    font-size: 12pt;
+    font-weight: 600;
+}
+.titlenya {
+    padding: 10px 20px;
+    float: left;
+    width: 430px;
+}
+.tanggalnya {
+    padding: 10px 20px;
+    float: left;
+    width: 100px;
+}
+.downloadnya {
+    padding: 10px 27px;
+    float: left;
+    width: 85px;
+}
+.downloadnya span {
+    border: 1px solid;
+    padding: 0px 4px;
+    border-radius: 2px;
+    color: #2786AE;
+}
+@media screen and (max-width:1137px) {
+h3.post-title.entry-title {width: 1070px;}
+}
+
+@media screen and (max-width:1123px) {
+.namepisode, .titlenya {width: 65%}
+.sidebar{margin-right: 15px;}
+}
+@media screen and (max-width:1024px) {
+h3.post-title.entry-title {width: 134.5%;}
+.infonime{width: 137%;}
+}
+@media screen and (max-width:980px) {
+h3.post-title.entry-title {width: 98%;}
+.infonime {width: 100%;}
+.contentinfonime {margin-right:0}
+.namepisode, .titlenya {width: 60%;}
+}
+
+@media screen and (max-width:980px) {
+.namepisode, .titlenya {width: 55%;}
+}
+@media screen and (max-width:785px) {
+.namepisode, .titlenya {width: 50%;}
+}
+
+@media screen and (max-width:768px) {
+h3.post-title.entry-title {width: 97%;}
+.uploadepisode, .tanggalnya {display:none}
+.namepisode, .titlenya {width: 70%;}
+
+}
+
+
+@media screen and (max-width:667px) {
+.contentinfonime {margin-right:0}
+.uploadepisode, .tanggalnya {display:none}
+.namepisode, .titlenya {width: 65%;}
+
+}
+@media screen and (max-width:591px) {
+.namepisode, .titlenya {width: 60%;}
+}
+@media screen and (max-width:568px) {
+h3.post-title.entry-title {width: 96.5%;}
+}
+@media screen and (max-width:556px) {
+.namepisode, .titlenya {width: 55%;}
+}
+@media screen and (max-width:456px) {
+.namepisode, .titlenya {width: 50%;}
+}
+@media screen and (max-width:416px) {
+.namepisode, .titlenya {width: 45%;}
+}
+@media screen and (max-width:414px) {
+h3.post-title.entry-title {width: 96.5%;}
+}
+@media screen and (max-width:384px) {
+.gambarnime {margin-left: 10%;}
+.namepisode, .titlenya {width: 40%;}
+}
+
+@media screen and (max-width:375px) {
+h3.post-title.entry-title {width: 94%;}
+.gambarnime {margin-left: 10%;}
+.infoanimekun, .downloadepide {display: none;}
+.namepisode, .titlenya {width: 97%;}
+}
+
+
+@media screen and (max-width:320px) {
+.infoanimekun > div {display:none}
+h3.post-title.entry-title, .infonime, .titlenya {width: inherit;}
+.contentinfonime {margin-right: 0;padding-left: 20px;}
+.sidebar {position: relative;top: inherit;}
+.downloadnya{float: inherit;margin: auto;}
+}
+
+@media screen and (max-width:240px) {
+.gambarnime {width:100%;margin: 0;}
+#cari input[type="text"]{width:90%}
+}
