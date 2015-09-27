@@ -142,6 +142,10 @@ h3.post-title.entry-title {
     border-radius: 2px;
     color: #2786AE;
 }
+.downloadnya a {
+    text-decoration:none;
+    color: #2786AE;
+}
 @media screen and (max-width:1137px) {
 h3.post-title.entry-title {width: 1070px;}
 }
